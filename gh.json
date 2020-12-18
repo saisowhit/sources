@@ -1,0 +1,10 @@
+
+{"intents":[
+{"tag":"greetings",
+"patterns":["Hello","How are you","Greetings"],
+},
+{"tag":"shop",
+"patterns":["Id like to buy"]
+}
+
+]}
